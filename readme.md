@@ -136,6 +136,7 @@ We would like to express our gratitude to the Arduino community and all contribu
 | --- | ---------------------------------------------------------------------------------- | ------ |
 | 1.  | [MIDI Library](https://github.com/FortySevenEffects/arduino_midi_library)          |	    |
 | 2.  | [Tone](https://github.com/bhagman/Tone)                                            |        |
+| 3.  | [Mozzi](https://github.com/sensorium/Mozzi)                                        |        |
 
 ### Time / Real-Time Clock (RTC)
 
