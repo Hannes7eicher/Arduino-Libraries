@@ -77,7 +77,7 @@ We would like to express our gratitude to the Arduino community and all contribu
 | 5.  | [OneButton](https://github.com/mathertel/OneButton)                                |        |
 | 6.  | [HX711](https://github.com/bogde/HX711)                                            |        |
 | 7.  | [SoftI2CMaster](https://github.com/felias-fogg/SoftI2CMaster)                      |        |
-| 8.  | [SoftPWM Library](https://github.com/bhagman/SoftPWM)                              |        |
+| 8.  | [LiquidCrystal](https://github.com/arduino-libraries/LiquidCrystal)                |  Well documented, and used in many, many Arduino projects.      |
 
 
 
@@ -92,6 +92,8 @@ We would like to express our gratitude to the Arduino community and all contribu
 | 5.  | [Adafruit GFX Library](https://github.com/adafruit/Adafruit-GFX-Library)           |        |
 | 6.  | [U8g2_Arduino](https://github.com/olikraus/U8g2_Arduino)                           |        |
 | 7.  | [NeoPixelBus](https://github.com/Makuna/NeoPixelBus)                               |        |
+| 8.  | [NeoPixelBus](https://github.com/Makuna/NeoPixelBus)                               |        |
+
 
 
 ### USB
