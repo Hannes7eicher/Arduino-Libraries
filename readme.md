@@ -52,15 +52,18 @@ This repository follows the [Contributor Covenant Code of Conduct](https://githu
 
 - [lvgl](https://github.com/lvgl/lvgl) - Create beautiful graphical user interfaces with ease.
 
+- [Adafruit GFX Library](https://github.com/adafruit/Adafruit-GFX-Library) - Build custom graphics for displays.
+
+- [U8g2_Arduino](https://github.com/olikraus/U8g2_Arduino) - Display graphics on a variety of devices.
+
+
+## Neopoxel
+
 - [FastLED](https://github.com/FastLED/FastLED) - Drive addressable LEDs for stunning lighting effects.
 
 - [Adafruit NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel) - Control NeoPixel and compatible RGB LEDs.
 
 - [NeoPixelBus Library](https://github.com/Makuna/NeoPixelBus) - Manage complex LED setups efficiently.
-
-- [Adafruit GFX Library](https://github.com/adafruit/Adafruit-GFX-Library) - Build custom graphics for displays.
-
-- [U8g2_Arduino](https://github.com/olikraus/U8g2_Arduino) - Display graphics on a variety of devices.
 
 
 ### USB
