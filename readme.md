@@ -16,142 +16,110 @@ The goal of this list is to provide a centralized resource for Arduino libraries
 
 This repository is currently moderated by Arduino but anyone is welcome to contribute and share libraries that they think other people should know about. You can either submit an issue or open a PR telling us which awesome libraries you think should be added.
 
-## What is awesome?
-
-Awesome libraries are not always the ones with the stars or the most forks on GitHub but rather libraries that follow good coding standards and are well documented. Awesome libraries of course tend to be popular on GitHub.
-
 This repository follows the [Contributor Covenant Code of Conduct](https://github.com/sindresorhus/awesome/blob/main/code-of-conduct.md).
 
-## License
-
-The MIT License (MIT)
-
-Copyright (c) 2023 Hannes Siebeneicher
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
-
-## Acknowledgment
-
-We would like to express our gratitude to the Arduino community and all contributors who have helped in curating this list.
 
 ## Libraries
 
-### Template
-| No. | Library                                                                            | Notes  |
-| --- | ---------------------------------------------------------------------------------- | ------ |
-| 1.  |                                                                                    |        |
 
 ### Robotics
 
-| No. | Library                                                                            | Notes  |
-| --- | ---------------------------------------------------------------------------------- | ------ |
-| 1.  | [Servo](https://github.com/arduino-libraries/Servo)                                |        |
-| 2.  | [PID_v1 Library](https://github.com/br3ttb/Arduino-PID-Library)                    |        |
-
-
+- [Servo](https://github.com/arduino-libraries/Servo)  - A library for controlling servo motors.
+- [PID_v1 Library](https://github.com/br3ttb/Arduino-PID-Library) -   Implement Proportional-Integral-Derivative (PID) control in your projects.
 
 ### Sensors
 
-| No. | Library                                                                            | Notes  |
-| --- | ---------------------------------------------------------------------------------- | ------ |
-| 1.  | [Encoder](https://github.com/PaulStoffregen/Encoder)                               |        |
-| 2.  | [Bounce2](https://github.com/thomasfredericks/Bounce2)                             |        |
-| 3.  | [Button2](https://github.com/LennartHennigs/Button2)                               |        |
-| 4.  | [IRremote](https://www.arduinolibraries.info/libraries/i-rremote)                  |        |
-| 5.  | [OneButton](https://github.com/mathertel/OneButton)                                |        |
-| 6.  | [HX711](https://github.com/bogde/HX711)                                            |        |
-| 7.  | [SoftI2CMaster](https://github.com/felias-fogg/SoftI2CMaster)                      |        |
-| 8.  | [SoftPWM Library](https://github.com/bhagman/SoftPWM)                              |        |
+- [Encoder](https://github.com/PaulStoffregen/Encoder) - Control and read from rotary encoders effortlessly.
 
+- [Bounce2](https://github.com/thomasfredericks/Bounce2) - Handle debouncing for buttons and switches in a clean way.
+
+- [Button2](https://github.com/LennartHennigs/Button2) - Simplify button handling with advanced features.
+
+- [IRremote](https://www.arduinolibraries.info/libraries/i-rremote) - Decode and send infrared signals with ease.
+
+- [OneButton](https://github.com/mathertel/OneButton) - Manage button states and actions efficiently.
+
+- [HX711](https://github.com/bogde/HX711) - Interface with load cells for precise weight measurements.
+
+- [SoftI2CMaster](https://github.com/felias-fogg/SoftI2CMaster) - Implement I2C communication in software for resource-constrained setups.
+
+- [SoftPWM Library](https://github.com/bhagman/SoftPWM) - Generate PWM signals on any pin using software, useful when hardware PWM is limited.
 
 
 ### Displays
 
-| No. | Library                                                                            | Notes  |
-| --- | ---------------------------------------------------------------------------------- | ------ |
-| 1.  | [lvgl](https://github.com/lvgl/lvgl)                                               |        |
-| 2.  | [FastLED](https://github.com/FastLED/FastLED)                                      |        |
-| 3.  | [Adafruit NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)                 |        |
-| 4.  | [NeoPixelBus Library](https://github.com/Makuna/NeoPixelBus)                       |        |
-| 5.  | [Adafruit GFX Library](https://github.com/adafruit/Adafruit-GFX-Library)           |        |
-| 6.  | [U8g2_Arduino](https://github.com/olikraus/U8g2_Arduino)                           |        |
-| 7.  | [NeoPixelBus](https://github.com/Makuna/NeoPixelBus)                               |        |
+- [lvgl](https://github.com/lvgl/lvgl) - Create beautiful graphical user interfaces with ease.
+
+- [FastLED](https://github.com/FastLED/FastLED) - Drive addressable LEDs for stunning lighting effects.
+
+- [Adafruit NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel) - Control NeoPixel and compatible RGB LEDs.
+
+- [NeoPixelBus Library](https://github.com/Makuna/NeoPixelBus) - Manage complex LED setups efficiently.
+
+- [Adafruit GFX Library](https://github.com/adafruit/Adafruit-GFX-Library) - Build custom graphics for displays.
+
+- [U8g2_Arduino](https://github.com/olikraus/U8g2_Arduino) - Display graphics on a variety of devices.
+
+- [NeoPixelBus](https://github.com/Makuna/NeoPixelBus) - Control various types of RGB LEDs with a unified interface.
 
 
 ### USB
 
-| No. | Library                                                                            | Notes  |
-| --- | ---------------------------------------------------------------------------------- | ------ |
-| 1.  | [Keyboard](https://github.com/arduino-libraries/Keyboard)                          |        |
-| 2.  | [Mouse](https://github.com/arduino-libraries/Mouse)                                |        |
+- [Keyboard](https://github.com/arduino-libraries/Keyboard) - Simulate keystrokes and control your computer.
+
+- [Mouse](https://github.com/arduino-libraries/Mouse) - Emulate mouse actions for interaction.
 
 
 ### Communication / Network
-| No. | Library                                                                            | Notes  |
-| --- | ---------------------------------------------------------------------------------- | ------ |
-| 1.  | [Blynk](https://github.com/blynkkk/blynk-library)                                  |        |
-| 2.  | [WiFiManager](https://github.com/tzapu/WiFiManager)                                |        |
-| 3.  | [ArduinoJson](https://arduinojson.org/)                                            |        |
-| 4.  | [SoftI2CMaster](https://github.com/felias-fogg/SoftI2CMaster)                      |        |
-| 5.  | [Ethernet Library](https://github.com/arduino-libraries/Ethernet)                  |        |
+
+- [Blynk](https://github.com/blynkkk/blynk-library) - Build IoT applications with a simple drag-and-drop interface.
+
+- [WiFiManager](https://github.com/tzapu/WiFiManager) - Easily manage WiFi settings in your projects.
+
+- [ArduinoJson](https://arduinojson.org/) - Efficiently handles JSON data in Arduino projects.
+
+- [SoftI2CMaster](https://github.com/felias-fogg/SoftI2CMaster) - Implement I2C communication in software for resource-constrained setups.
+
+- [Ethernet Library](https://github.com/arduino-libraries/Ethernet) -  Enable Ethernet connectivity in your Arduino projects.
 
 
 ### Storage
 
-| No. | Library                                                                            | Notes  |
-| --- | ---------------------------------------------------------------------------------- | ------ |
-| 1.  | [LCBUrl](https://github.com/lbussy/LCBUrl)                                         |        |
-| 2.  | [Firebase Arduino Library - ESP8266](https://github.com/mobizt/Firebase-ESP8266)   |        |
-| 3.  | [Firebase Arduino Library - ESP32](https://github.com/mobizt/Firebase-ESP8266)     |        |
-| 4.  | [Preferences](https://github.com/vshymanskyy/Preferences)                          |        |
-| 5.  | [SdFat](https://github.com/greiman/SdFat)                                          |        |
+- [LCBUrl](https://github.com/lbussy/LCBUrl) - Handle URLs and URIs with ease.
+
+- [Firebase Arduino Library - ESP8266](https://github.com/mobizt/Firebase-ESP8266) - Integrate your ESP8266 projects with Firebase.
+
+- [Firebase Arduino Library - ESP32](https://github.com/mobizt/Firebase-ESP8266) - Integrate your ESP32 projects with Firebase.
+
+- [Preferences](https://github.com/vshymanskyy/Preferences) - Store and retrieve key-value pairs persistently.
+
+- [SdFat](https://github.com/greiman/SdFat) - Access and manipulate files on SD cards.
 
 
 ### Power
 
-| No. | Library                                                                            | Notes  |
-| --- | ---------------------------------------------------------------------------------- | ------ |
-| 1.  | [Arduino_POSIXStorage](https://github.com/arduino-libraries/Arduino_POSIXStorage/) |        |
+- [Arduino_POSIXStorage](https://github.com/arduino-libraries/Arduino_POSIXStorage/) - Simulate POSIX file storage on Arduino.
 
 
 ### Audio
 
-| No. | Library                                                                            | Notes  |
-| --- | ---------------------------------------------------------------------------------- | ------ |
-| 1.  | [MIDI Library](https://github.com/FortySevenEffects/arduino_midi_library)          |	    |
-| 2.  | [Tone](https://github.com/bhagman/Tone)                                            |        |
+- [MIDI Library](https://github.com/FortySevenEffects/arduino_midi_library) - Implement MIDI communication in your projects.
+
+- [Tone](https://github.com/bhagman/Tone) - Generate tones and sound effects.
+
 
 ### Time / Real-Time Clock (RTC)
 
-| No. | Library                                                                            | Notes  |
-| --- | ---------------------------------------------------------------------------------- | ------ |
-| 1.  | [DS3231](https://github.com/NorthernWidget/DS3231)                                 |        |
+- [DS3231](https://github.com/NorthernWidget/DS3231) - Interface with the DS3231 RTC module for accurate timekeeping.
 
 
 ### Multithreading / Task Management
 
-| No. | Library                                                                            | Notes  |
-| --- | ---------------------------------------------------------------------------------- | ------ |
-| 1.  | [ArduinoThread](https://github.com/ivanseidel/ArduinoThread)                       |        |
+- [ArduinoThread](https://github.com/ivanseidel/ArduinoThread) - Manage concurrent tasks in your Arduino projects.
+
 
 ### Data Handling
-| No. | Library                                                                            | Notes  |
-| --- | ---------------------------------------------------------------------------------- | ------ |
-| 1.  | [StreamLib](https://github.com/JAndrassy/StreamLib)                                |        |
-| 2.  | [Streaming](https://github.com/janelia-arduino/Streaming)                          |        | 
+
+- [StreamLib](https://github.com/JAndrassy/StreamLib) - Extend the functionality of Arduino streams.
+
+- [Streaming](https://github.com/janelia-arduino/Streaming) - Simplify working with Arduino streams.
