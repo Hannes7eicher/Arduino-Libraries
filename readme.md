@@ -45,6 +45,8 @@ This repository follows the [Contributor Covenant Code of Conduct](https://githu
 
 - [SoftPWM Library](https://github.com/bhagman/SoftPWM) - Generate PWM signals on any pin using software, useful when hardware PWM is limited.
 
+- [LiquidCrystal](https://github.com/arduino-libraries/LiquidCrystal) - Well documented, and used in many, many Arduino projects.
+
 
 ### Displays
 
@@ -59,8 +61,6 @@ This repository follows the [Contributor Covenant Code of Conduct](https://githu
 - [Adafruit GFX Library](https://github.com/adafruit/Adafruit-GFX-Library) - Build custom graphics for displays.
 
 - [U8g2_Arduino](https://github.com/olikraus/U8g2_Arduino) - Display graphics on a variety of devices.
-
-- [NeoPixelBus](https://github.com/Makuna/NeoPixelBus) - Control various types of RGB LEDs with a unified interface.
 
 
 ### USB
@@ -106,6 +106,8 @@ This repository follows the [Contributor Covenant Code of Conduct](https://githu
 - [MIDI Library](https://github.com/FortySevenEffects/arduino_midi_library) - Implement MIDI communication in your projects.
 
 - [Tone](https://github.com/bhagman/Tone) - Generate tones and sound effects.
+
+- [Mozzi](https://github.com/sensorium/Mozzi) - Mozzi is a great library for audio generation, that gives you complete control of many many aspects of electronic sound, in order to create complex audio on not-so-powerful hardware.
 
 
 ### Time / Real-Time Clock (RTC)
